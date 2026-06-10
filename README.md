@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-- 🏢 Currently **Senior QA Engineer @ InfoBeans Technologies, Indore** — working on **Axiad Mesh** (identity security platform)
+- 🏢 Currently **Senior QA Engineer @ InfoBeans Technologies, Indore** —
 - 🧪 5+ years across the full SDLC — combining deep **manual testing** with scalable **automation** for web, mobile & APIs
 - 🤖 Leveraging **AI tools (ChatGPT, Claude, Claude Code)** for test case generation, automation scripting & QA workflows
 - ☸️ Testing **microservices on Kubernetes** with GraphQL/REST APIs and PostgreSQL backends
@@ -82,9 +82,7 @@
 ## 🧑‍💼 Experience
 
 ### 🏢 InfoBeans Technologies Pvt. Ltd., Indore — *Senior QA Engineer*
-**Feb 2025 – Present** | Project: **Axiad Mesh**
-
-> Multi-tenant, microservices-based identity security platform covering Non-Human Identity (NHI), risk scoring, compliance, and connector ingestion.
+**Feb 2025 – Present** 
 
 - Led end-to-end QA — manual test design, exploratory testing, and automation — across 5+ microservices deployed on Kubernetes
 - Built a **hybrid automation framework** (Java, Selenium, TestNG, Rest Assured) for UI + API testing of GraphQL/REST endpoints
