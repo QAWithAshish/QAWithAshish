@@ -79,54 +79,6 @@
 
 ---
 
-## 🧑‍💼 Experience
-
-### 🏢 InfoBeans Technologies Pvt. Ltd., Indore — *Senior QA Engineer*
-**Feb 2025 – Present** 
-
-- Led end-to-end QA — manual test design, exploratory testing, and automation — across 5+ microservices deployed on Kubernetes
-- Built a **hybrid automation framework** (Java, Selenium, TestNG, Rest Assured) for UI + API testing of GraphQL/REST endpoints
-- Verified backend data integrity through direct **PostgreSQL** queries
-- Used **ChatGPT & Claude Code** to generate test cases and build automation scripts — cutting creation time significantly
-- Executed regression testing for connectors (ServiceNow, Okta, HubSpot, Baton) for tenants with **750K+ NHI assets**
-- Authored **30+ test reports & release notes**; achieved **95%+ automation coverage** and cut manual regression by **50%**
-
-**Stack:** Java · Selenium · TestNG · Rest Assured · GraphQL · Postman · Kubernetes · Helm · PostgreSQL · Bitbucket · Maven · ChatGPT · Claude Code
-
----
-
-### 🏢 GammaEdge Technologies, Indore — *QA Automation Engineer*
-**Jun 2023 – Dec 2024** | Project: **My-Eicher (Web & Mobile)**
-
-- Designed and maintained **Selenium/Appium** scripts for web and mobile validation
-- Configured **Jenkins CI/CD** pipelines for continuous testing and deployment
-- Enhanced automation framework for efficiency, reliability, and scalability
-
-**Stack:** Java · Selenium · Appium · Jenkins
-
----
-
-### 🏢 GammaEdge Technologies, Indore — *QA Automation Engineer*
-**Jun 2022 – Jun 2023** | Project: **Gosadi**
-
-- Automated the Jira tool, significantly reducing processing time and improving operational efficiency
-- Developed UI & API automated test scripts using **Java, Selenium, TestNG**
-- Managed automation codebase in Git, enabling team collaboration
-
-**Stack:** Selenium · Java · TestNG · Jira · Jenkins
-
----
-
-### 🏢 Cubexo, Indore — *Associate Test Engineer*
-**Jun 2021 – Jun 2022** | Project: **1kCoffee Builder AI**
-
-- Performed manual and API testing for a Property web and mobile application
-- Used **Postman** for API testing and **Jira** to track project workflow
-
-**Stack:** Manual Testing · API Testing · Postman · Jira
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
