@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-- 🏢 Currently **Senior QA Engineer @ InfoBeans Technologies, Indore** —
+- 🏢 Currently **Senior QA Engineer @ InfoBeans Technologies, Indore**
 - 🧪 5+ years across the full SDLC — combining deep **manual testing** with scalable **automation** for web, mobile & APIs
 - 🤖 Leveraging **AI tools (ChatGPT, Claude, Claude Code)** for test case generation, automation scripting & QA workflows
 - ☸️ Testing **microservices on Kubernetes** with GraphQL/REST APIs and PostgreSQL backends
