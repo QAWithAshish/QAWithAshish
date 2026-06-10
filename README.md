@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ashish Bhalray</h1>
-<h3 align="center">🚀 QA Automation Engineer | Selenium • Appium • Java • CI/CD</h3>
+<h3 align="center">🚀 Senior QA Engineer | 5+ Years | Selenium • Appium • Java • AI-Driven QA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=3%2B+Years+of+QA+Automation+Experience;Selenium+%7C+Appium+%7C+TestNG+%7C+Maven;Jenkins+%7C+GitLab+CI+%7C+Docker;Hybrid+Test+Frameworks+from+Scratch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931A&center=true&vCenter=true&width=700&lines=5%2B+Years+of+QA+Engineering+Experience;Selenium+%7C+Appium+%7C+TestNG+%7C+Rest+Assured;GraphQL+%7C+Kubernetes+%7C+PostgreSQL;AI-Driven+QA+with+ChatGPT+%26+Claude+Code;Currently+%40+InfoBeans+Technologies%2C+Indore" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 I build and maintain **robust test automation frameworks** for Web & Mobile applications
-- 🛠️ Expert in **Selenium WebDriver**, **Appium**, **TestNG**, **Maven**, and **Extent Reports**
-- ⚙️ Experienced integrating automation into **CI/CD pipelines** with Jenkins & GitLab CI
-- 🤝 Agile team player — skilled at collaborating cross-functionally to ship quality software
-- 🐛 Passionate about **early bug detection**, shift-left testing, and software reliability
+- 🏢 Currently **Senior QA Engineer @ InfoBeans Technologies, Indore** — working on **Axiad Mesh** (identity security platform)
+- 🧪 5+ years across the full SDLC — combining deep **manual testing** with scalable **automation** for web, mobile & APIs
+- 🤖 Leveraging **AI tools (ChatGPT, Claude, Claude Code)** for test case generation, automation scripting & QA workflows
+- ☸️ Testing **microservices on Kubernetes** with GraphQL/REST APIs and PostgreSQL backends
+- 🛠️ Built hybrid automation frameworks with **Java, Selenium, TestNG, Rest Assured** achieving **95%+ automation coverage**
+- 📉 Cut manual regression effort by **50%** and accelerated test case creation with AI-assisted QA
+- 🎓 B.E. in Computer Science — RGPV Bhopal (2014–2018)
 - 📫 Reach me at: **ashish.bhalray14@gmail.com**
 
 ---
@@ -41,25 +43,89 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest_Assured-00897B?style=for-the-badge&logo=java&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Languages & Build Tools**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**APIs & Databases**
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **CI/CD & DevOps**
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-**Reporting & Tracking**
+**AI Tools in QA**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Project & Reporting**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure_Reports-1DB954?style=for-the-badge&logo=databricks&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+## 🧑‍💼 Experience
+
+### 🏢 InfoBeans Technologies Pvt. Ltd., Indore — *Senior QA Engineer*
+**Feb 2025 – Present** | Project: **Axiad Mesh**
+
+> Multi-tenant, microservices-based identity security platform covering Non-Human Identity (NHI), risk scoring, compliance, and connector ingestion.
+
+- Led end-to-end QA — manual test design, exploratory testing, and automation — across 5+ microservices deployed on Kubernetes
+- Built a **hybrid automation framework** (Java, Selenium, TestNG, Rest Assured) for UI + API testing of GraphQL/REST endpoints
+- Verified backend data integrity through direct **PostgreSQL** queries
+- Used **ChatGPT & Claude Code** to generate test cases and build automation scripts — cutting creation time significantly
+- Executed regression testing for connectors (ServiceNow, Okta, HubSpot, Baton) for tenants with **750K+ NHI assets**
+- Authored **30+ test reports & release notes**; achieved **95%+ automation coverage** and cut manual regression by **50%**
+
+**Stack:** Java · Selenium · TestNG · Rest Assured · GraphQL · Postman · Kubernetes · Helm · PostgreSQL · Bitbucket · Maven · ChatGPT · Claude Code
+
+---
+
+### 🏢 GammaEdge Technologies, Indore — *QA Automation Engineer*
+**Jun 2023 – Dec 2024** | Project: **My-Eicher (Web & Mobile)**
+
+- Designed and maintained **Selenium/Appium** scripts for web and mobile validation
+- Configured **Jenkins CI/CD** pipelines for continuous testing and deployment
+- Enhanced automation framework for efficiency, reliability, and scalability
+
+**Stack:** Java · Selenium · Appium · Jenkins
+
+---
+
+### 🏢 GammaEdge Technologies, Indore — *QA Automation Engineer*
+**Jun 2022 – Jun 2023** | Project: **Gosadi**
+
+- Automated the Jira tool, significantly reducing processing time and improving operational efficiency
+- Developed UI & API automated test scripts using **Java, Selenium, TestNG**
+- Managed automation codebase in Git, enabling team collaboration
+
+**Stack:** Selenium · Java · TestNG · Jira · Jenkins
+
+---
+
+### 🏢 Cubexo, Indore — *Associate Test Engineer*
+**Jun 2021 – Jun 2022** | Project: **1kCoffee Builder AI**
+
+- Performed manual and API testing for a Property web and mobile application
+- Used **Postman** for API testing and **Jira** to track project workflow
+
+**Stack:** Manual Testing · API Testing · Postman · Jira
 
 ---
 
@@ -79,14 +145,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=QAWithAshish&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-## 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=QAWithAshish&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
 ---
